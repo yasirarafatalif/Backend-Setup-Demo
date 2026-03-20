@@ -4,7 +4,7 @@ A simple demo backend project using **Node.js**, **Express.js**, and **MongoDB**
 
 ---
 
-## 📦 Feature
+## 📦 Features
 
 * User Registration
 * User Login (JWT Authentication)
