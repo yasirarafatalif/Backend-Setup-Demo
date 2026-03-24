@@ -1,4 +1,4 @@
-# 🚀 Express + MongoDB Demo Backend
+# 🚀 Express + MongoDB Demo 
 
 A simple demo backend project using **Node.js**, **Express.js**, and **MongoDB** with basic authentication (JWT & Cookies).
 
