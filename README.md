@@ -22,7 +22,7 @@ A simple demo backend project using **Node.js**, **Express.js**, and **MongoDB**
 * JWT (jsonwebtoken)
 * bcryptjs
 * cookie-parser
-* cors
+* cors and
 
 ---
 
